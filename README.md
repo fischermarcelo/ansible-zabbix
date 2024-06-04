@@ -7,7 +7,6 @@ Para rodar esse projeto em seu ambiente, será necessário:
 
 ```
 apt install ansible
-
 ```
 
 
